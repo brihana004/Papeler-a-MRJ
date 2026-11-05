@@ -22,3 +22,9 @@ Papelería Quincalleria
     </section>
 </body>
 </html>
+
+body { font-family: Arial, sans-serif; text-align: center; }
+header { background: #f4f4f4; padding: 20px; }
+ul { list-style: none; padding: 0; }
+li { margin: 10px 0; font-size: 1.25rem; }
+.btn-whatsapp { display: inline-block
