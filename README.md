@@ -18,7 +18,7 @@ Papelería Quincalleria
             <li>Bolígrafo - $1</li>
             <li>Mochila - $15</li>
         </ul>
-        <a href="https://wa.me/04346313627" class="btn-whatsapp">Pedir por WhatsApp</a>
+        <a href="https://wa.me/+584246313627" class="btn-whatsapp">Pedir por WhatsApp</a>
     </section>
 </body>
 </html>
